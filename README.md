@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Working on Tripmine a high-end low-profile bundler for applications.<br>Also working on PyPearl, a python variation with a runtime.<br>Small CEO of EmbEmb<br>@embemb.software on IG
 
 
